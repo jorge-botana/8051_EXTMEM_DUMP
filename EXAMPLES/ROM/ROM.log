@@ -1,0 +1,63 @@
+Current configuration:
+
+ - Base address           : 0x8000
+
+ - Total bytes            :  00300
+
+ - Columns per row        :     08
+
+ - External memory type   :    ROM
+
+Ready.
+
+
+1 - Push-button disabled.
+
+
+2 - Push-button enabled.
+
+
+Dump of the external memory:
+
+0x8000: 4C 6F 72 65 6D 20 69 70    L o r e m   i p 
+0x8008: 73 75 6D 20 64 6F 6C 6F    s u m   d o l o 
+0x8010: 72 20 73 69 74 20 61 6D    r   s i t   a m 
+0x8018: 65 74 2C 20 63 6F 6E 73    e t ,   c o n s 
+0x8020: 65 63 74 65 74 75 72 20    e c t e t u r   
+0x8028: 61 64 69 70 69 73 63 69    a d i p i s c i 
+0x8030: 6E 67 20 65 6C 69 74 2E    n g   e l i t . 
+0x8038: 20 45 74 69 61 6D 20 76      E t i a m   v 
+0x8040: 69 74 61 65 20 6A 75 73    i t a e   j u s 
+0x8048: 74 6F 20 65 67 65 74 20    t o   e g e t   
+0x8050: 74 6F 72 74 6F 72 20 66    t o r t o r   f 
+0x8058: 69 6E 69 62 75 73 20 65    i n i b u s   e 
+0x8060: 6C 65 6D 65 6E 74 75 6D    l e m e n t u m 
+0x8068: 2E 20 50 65 6C 6C 65 6E    .   P e l l e n 
+0x8070: 74 65 73 71 75 65 20 65    t e s q u e   e 
+0x8078: 75 20 6C 69 67 75 6C 61    u   l i g u l a 
+0x8080: 20 6E 75 6E 63 2E 20 4E      n u n c .   N 
+0x8088: 75 6C 6C 61 6D 20 70 72    u l l a m   p r 
+0x8090: 65 74 69 75 6D 2C 20 69    e t i u m ,   i 
+0x8098: 70 73 75 6D 20 65 67 65    p s u m   e g e 
+0x80A0: 74 20 70 6F 73 75 65 72    t   p o s u e r 
+0x80A8: 65 20 6C 61 63 69 6E 69    e   l a c i n i 
+0x80B0: 61 2C 20 61 75 67 75 65    a ,   a u g u e 
+0x80B8: 20 61 75 67 75 65 20 73      a u g u e   s 
+0x80C0: 63 65 6C 65 72 69 73 71    c e l e r i s q 
+0x80C8: 75 65 20 6E 65 71 75 65    u e   n e q u e 
+0x80D0: 2C 20 6E 65 63 20 69 61    ,   n e c   i a 
+0x80D8: 63 75 6C 69 73 20 65 6C    c u l i s   e l 
+0x80E0: 69 74 20 6E 65 71 75 65    i t   n e q u e 
+0x80E8: 20 73 65 64 20 76 65 6C      s e d   v e l 
+0x80F0: 69 74 2E 20 4E 75 6C 6C    i t .   N u l l 
+0x80F8: 61 20 73 69 74 20 61 6D    a   s i t   a m 
+0x8100: 65 74 20 65 67 65 73 74    e t   e g e s t 
+0x8108: 61 73 20 71 75 61 6D 2E    a s   q u a m . 
+0x8110: 20 53 65 64 20 64 6F 6C      S e d   d o l 
+0x8118: 6F 72 20 65 72 6F 73 20    o r   e r o s   
+0x8120: 74 75 72 70 69 73 20 64    t u r p i s   d 
+0x8128: 75 69 73 2E                u i s .         
+
+Done.
+
+
